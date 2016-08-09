@@ -17,7 +17,7 @@
 
 <resources>
 
-    <string name="app_name">Philm</string>
+    <string name="app_name">Vega</string>
     <string name="title_film_detail">Подробности</string>
 
     <string name="discover_title">Discover (testing)</string>
