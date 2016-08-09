@@ -59,7 +59,7 @@ import dagger.Module;
                 FetchTmdbConfigurationRunnable.class,
                 FetchTmdbDetailMovieRunnable.class,
                 FetchTmdbMoviesReleasesRunnable.class,
-                FetchTmdbRelatedMoviesRunnable.class,
+//                FetchTmdbRelatedMoviesRunnable.class,
                 FetchTmdbNowPlayingRunnable.class,
                 FetchTmdbPopularRunnable.class,
                 FetchTmdbRelatedMoviesRunnable.class,
